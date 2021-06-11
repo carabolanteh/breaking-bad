@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/breaking-bad/static/css/main.1418da66.chunk.css",
+    "main.js": "/breaking-bad/static/js/main.ce8617f6.chunk.js",
+    "main.js.map": "/breaking-bad/static/js/main.ce8617f6.chunk.js.map",
+    "runtime-main.js": "/breaking-bad/static/js/runtime-main.a066b1c9.js",
+    "runtime-main.js.map": "/breaking-bad/static/js/runtime-main.a066b1c9.js.map",
+    "static/js/2.d2f03825.chunk.js": "/breaking-bad/static/js/2.d2f03825.chunk.js",
+    "static/js/2.d2f03825.chunk.js.map": "/breaking-bad/static/js/2.d2f03825.chunk.js.map",
+    "static/js/3.98a39cb9.chunk.js": "/breaking-bad/static/js/3.98a39cb9.chunk.js",
+    "static/js/3.98a39cb9.chunk.js.map": "/breaking-bad/static/js/3.98a39cb9.chunk.js.map",
+    "index.html": "/breaking-bad/index.html",
+    "static/css/main.1418da66.chunk.css.map": "/breaking-bad/static/css/main.1418da66.chunk.css.map",
+    "static/js/2.d2f03825.chunk.js.LICENSE.txt": "/breaking-bad/static/js/2.d2f03825.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/breaking-bad/static/media/logo.4543bc50.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a066b1c9.js",
+    "static/js/2.d2f03825.chunk.js",
+    "static/css/main.1418da66.chunk.css",
+    "static/js/main.ce8617f6.chunk.js"
+  ]
+}
